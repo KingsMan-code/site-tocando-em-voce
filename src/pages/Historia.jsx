@@ -1,7 +1,6 @@
 import { Calendar, Users, Award, Heart } from 'lucide-react'
 import { Card, CardContent } from '@/components/ui/card'
 import logoVintage from '../assets/logos/logo_vintage.png'
-import logoModerna2 from '../assets/logos/logo_moderna_2.png'
 
 const Historia = () => {
   const timeline = [
