@@ -2,7 +2,6 @@ import { Link } from 'react-router-dom'
 import { ArrowRight, Music, Users, Heart, Star, Play } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { Card, CardContent } from '@/components/ui/card'
-import logoModerna1 from '../assets/logos/logo_moderna_1.png'
 import logoAquarela from '../assets/logos/logo_aquarela.png'
 
 const Home = () => {
